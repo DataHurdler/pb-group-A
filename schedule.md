@@ -10,26 +10,26 @@ Status: draft
 | Lunch | −60 |
 | Two breaks | −30 |
 | **Instructional time** | **390 (6.5 hours)** |
-| Timed exercises (12) | 168 (43%) |
+| Timed exercises (12) | 164 (42%) |
 | Share-out and questions, 10 per module | 60 (15%) |
-| Concept and demo | 99 (25%) |
+| Concept and demo | 103 (26%) |
 | Warm-ups, opening, closing | 63 (16%) |
 
 ## Timed agenda
 
 | Time | Min | Block | Inside the block | Exercises | Slides |
 | --- | --- | --- | --- | --- | --- |
-| 8:30 | 15 | **Opening** | Welcome, feelings poll, agenda, ground rules, tool check | — | [1–7](materials/slides/00-opening.md) |
-| 8:45 | 60 | **1 How AI tools work** | Warm-up 4 · concept 12 · demo 7 · exercises 27 · share-out 10 | 1 Can or can't? (10, pairs) · 2 Test the limits (17, pairs) | [8–20](materials/slides/01-how-llms-work.md) |
-| 9:45 | 60 | **2 Anatomy of a good prompt** | Warm-up 3 · concept 12 · demo 8 · exercises 27 · share-out 10 | 3 Fix-it, bad → better (12, pairs) · 4 Your task, draft 1 (15, solo) | [21–35](materials/slides/02-anatomy-of-a-prompt.md) |
+| 8:30 | 15 | **Opening** | Welcome, feelings poll, agenda, ground rules, tool check | — | [1–7](materials/slides/consolidated-deck.md#opening) |
+| 8:45 | 60 | **1 How AI tools work** | Warm-up 4 · concept 12 · demo 7 · exercises 27 · share-out 10 | 1 Can or can't? (10, pairs) · 2 Test the limits (17, pairs) | [8–20](materials/slides/consolidated-deck.md#module-1--how-ai-tools-work) |
+| 9:45 | 60 | **2 Anatomy of a good prompt** | Warm-up 3 · concept 12 · demo 8 · exercises 27 · share-out 10 | 3 Fix-it, bad → better (12, pairs) · 4 Your task, draft 1 (15, solo) | [21–35](materials/slides/consolidated-deck.md#module-2--anatomy-of-a-good-prompt) |
 | 10:45 | 15 | *Break* | | | 36 |
-| 11:00 | 60 | **3 Techniques** | Warm-up 3 · concept 12 · demo 7 · exercises 28 · share-out 10 | 5 Show, don't tell (10, pairs) · 6 Three rounds (18, solo) | [37–49](materials/slides/03-techniques.md) |
+| 11:00 | 60 | **3 Techniques** | Warm-up 3 · concept 12 · demo 7 · exercises 28 · share-out 10 | 5 Show, don't tell (10, pairs) · 6 Three rounds (18, solo) | [37–49](materials/slides/consolidated-deck.md#module-3--techniques) |
 | 12:00 | 60 | *Lunch* | | | 50 |
-| 1:00 | 60 | **4 Checking outputs** | Warm-up 3 · concept 11 · demo 5 · exercises 31 · share-out 10 | 7 Spot the problems (8, pairs) · 8 Prompt bake-off (23, groups) | [51–63](materials/slides/04-evaluating-outputs.md) |
-| 2:00 | 45 | **5 Using AI responsibly** | Warm-up 2 · concept 10 · demo 5 · exercises 18 · share-out 10 | 9 Traffic light (10, groups) · 10 Clean this prompt (8, pairs) | [64–75](materials/slides/05-responsible-use.md) |
+| 1:00 | 60 | **4 Checking outputs** | Warm-up 3 · concept 11 · demo 5 · exercises 31 · share-out 10 | 7 Spot the problems (8, pairs) · 8 Prompt bake-off (23, groups) | [51–63](materials/slides/consolidated-deck.md#module-4--checking-outputs) |
+| 2:00 | 45 | **5 Using AI responsibly** | Warm-up 2 · concept 10 · demo 5 · exercises 18 · share-out 10 | 9 Traffic light (10, groups) · 10 Clean this prompt (8, pairs) | [64–75](materials/slides/consolidated-deck.md#module-5--using-ai-responsibly) |
 | 2:45 | 15 | *Break* | | | 76 |
-| 3:00 | 60 | **6 Capstone** | Warm-up 3 · concept 5 · demo 5 · exercises 37 · share-out 10 | 11 Capstone build (22, solo) · 12 Table presentations (15, groups) | [77–84](materials/slides/06-capstone.md) |
-| 4:00 | 30 | **Closing** | Hall of fame, day recap, feedback, next steps | — | [85–88](materials/slides/07-closing.md) |
+| 3:00 | 60 | **6 Capstone** | Warm-up 3 · concept 9 (incl. reuse and efficiency) · demo 5 · exercises 33 · share-out 10 | 11 Capstone build (18, solo) · 12 Table presentations (15, groups) | [77–86](materials/slides/consolidated-deck.md#module-6--capstone) |
+| 4:00 | 30 | **Closing** | Hall of fame, day recap, feedback, next steps | — | [87–90](materials/slides/consolidated-deck.md#closing) |
 | 4:30 | | *End* | | | |
 
 Module timings include about a minute of title-slide transition in the concept

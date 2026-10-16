@@ -1,8 +1,9 @@
 <!--
 Print layout: Syllabus layout in ../brand/README.md (section 3.4).
-Two pages, handed out at check-in. Logo, colors, and fonts are NEEDS
-CONFIRMATION until the UNO brand source is available. Logo alt text in the
-PDF version: "University of Nebraska Omaha".
+Two pages, handed out at check-in. Two-color UNO Logo Lock-up in the header,
+black URW Grotesk headings, red only as a thin rule (values and sources in
+../brand/README.md). Logo position still NEEDS CONFIRMATION (item 10). Logo
+alt text in the PDF version: "University of Nebraska Omaha".
 -->
 
 # Prompt Engineering for Work
@@ -82,8 +83,8 @@ output. Includes a team prompt bake-off.
 **5. Using AI responsibly.** What happens to what you type, what's safe to
 share, and how to remove sensitive details while keeping your prompt useful.
 
-**6. Capstone.** You finish your own prompt, test it, and present it to your
-table.
+**6. Capstone.** How to reuse a good prompt so it saves time without losing
+quality. Then you finish your own prompt, test it, and present it to your table.
 
 ## How the day works
 

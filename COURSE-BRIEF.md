@@ -51,7 +51,7 @@ Change any of these and adjust [schedule.md](schedule.md).
 | 2 | Do learners' employers block any of the three tools on work laptops? | Setup failures are the biggest risk to the first hour |
 | 3 | Will learners have work accounts with data protections, or personal free accounts? | Changes how strongly Module 5 warns about pasting work content |
 | 4 | Is there a certificate or credit attached? | Decides whether the pre/post check is used |
-| 5 | Who collects feedback, and how? | Needed for slide 87 |
+| 5 | Who collects feedback, and how? | Needed for slide 89 |
 
 ## 5. Scope
 

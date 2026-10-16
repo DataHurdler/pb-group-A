@@ -7,15 +7,15 @@ Work back from the course date. [TODO: date]
 - [ ] Open questions in [COURSE-BRIEF.md](../COURSE-BRIEF.md) answered
 - [ ] Venue booked; tables seat 4–5; projector and room Wi-Fi confirmed
 - [ ] Confirm whether learners' work laptops can reach ChatGPT, Claude, or Copilot
-- [ ] Build your own capstone example for slide 80 (a reusable weekly status update works well)
+- [ ] Build your own capstone example for slide 82 (a reusable weekly status update works well)
 
 ## One week before
 
 - [ ] [Pre-course email](../participants/pre-course-email.md) sent
-- [ ] Full timed run-through of the [deck](../materials/slides/README.md) against [schedule.md](../schedule.md)
+- [ ] Full timed run-through of the [deck](../materials/slides/consolidated-deck.md) against [schedule.md](../schedule.md)
 - [ ] Rehearse the four demos (slides 16, 31, 45, 58) in your chosen tool. Expect different output on the day
-- [ ] Feedback form created; link and QR code added to slide 87
-- [ ] Resource searches on slide 88 still lead to the official guides
+- [ ] Feedback form created; link and QR code added to slide 89
+- [ ] Resource searches on slide 90 still lead to the official guides
 
 ## Day before
 

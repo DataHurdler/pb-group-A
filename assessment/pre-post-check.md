@@ -4,7 +4,7 @@ Status: draft. Optional unless the course carries credit or a certificate (see
 [COURSE-BRIEF.md](../COURSE-BRIEF.md), open question 4).
 
 The same short check after the tool check in the opening (5 minutes, taken from
-the parking-lot discussion) and again during the closing feedback (slide 87).
+the parking-lot discussion) and again during the closing feedback (slide 89).
 Not graded; tell learners that. Keep it anonymous, or pair pre and post with a
 self-chosen code word.
 

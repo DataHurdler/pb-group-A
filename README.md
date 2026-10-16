@@ -15,7 +15,8 @@ their own job.
 | --- | --- |
 | The syllabus handed out at check-in | [materials/handouts/syllabus.md](materials/handouts/syllabus.md) |
 | The timed agenda for the day | [schedule.md](schedule.md) |
-| The slide deck, with speaker notes and exercises | [materials/slides/](materials/slides/README.md) |
+| The slide deck, with speaker notes, exercises, and charter coverage | [materials/slides/consolidated-deck.md](materials/slides/consolidated-deck.md) |
+| The approved course charter | [CHARTER.md](CHARTER.md) |
 | The one-page student handout | [materials/handouts/student-handout.md](materials/handouts/student-handout.md) |
 | Audience, outcomes, and what's still to decide | [COURSE-BRIEF.md](COURSE-BRIEF.md) |
 | UNO branding and accessibility rules | [materials/brand/README.md](materials/brand/README.md) |
@@ -47,13 +48,14 @@ share-out and questions.
 ## Repo layout
 
 ```
+CHARTER.md        Approved description, objectives, constraints
 COURSE-BRIEF.md   Audience, outcomes, assumptions, open questions
-NEEDS-CONFIRMATION.md  Brand values and course details still missing
+NEEDS-CONFIRMATION.md  What's still open
 schedule.md       Timed agenda, minute budget, cut list
 materials/
-  slides/         88-slide deck in eight files, with notes and exercises
+  slides/         consolidated-deck.md: 90 slides with notes and exercises
   handouts/       Two-page syllabus and one-page student handout
-  brand/          UNO brand spec, layouts, and accessibility rules
+  brand/          UNO brand spec, resolution log, layouts, accessibility
   data/           (empty) any files exercises need
 instructor/       Prep checklist and day-of run sheet
 participants/     Pre-course email, printable agenda, action plan

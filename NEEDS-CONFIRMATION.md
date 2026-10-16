@@ -1,41 +1,25 @@
 # NEEDS CONFIRMATION
 
-Every value below is missing from the sources available. None of them were
-guessed. Each appears in the repo as `NEEDS CONFIRMATION` or as a bracketed
-placeholder.
+Only what's still open. Items 1–9, 11, 12, and 17 were resolved from UNO's
+official brand guide; see the resolution log in
+[materials/brand/README.md](materials/brand/README.md). Item numbers are kept
+from the original list.
 
-## Blocking: the brand source
+## A. Brand
 
-| # | Item | Where it's used |
+| # | Item | What's still open | Where it's used |
+| --- | --- | --- | --- |
+| 10 | Logo placement on title, divider, content slides, and print | The brand guide gives no placement rule. Open the official UNO PowerPoint template (SharePoint, via the UNO-Branded Templates page) and copy its placement | All branded layouts |
+| 13 | Official UNO slide template | The template exists but hasn't been opened or compared with the deck's layouts | Would replace the layout descriptions in the brand spec |
+| 14 | Document or letterhead template | "Digital Letterhead" and "General Document" templates exist but haven't been downloaded or applied | Syllabus |
+| 15 | Department lockup or co-branding | Required elements are resolved; no guidance found on adding a department name or partner logo | Title slide, syllabus |
+| 16 | Brand guidance on print body size | The brand guide gives none; the syllabus keeps 11 pt minimum | Syllabus |
+
+## B. Checks
+
+| # | Item | What's still open |
 | --- | --- | --- |
-| 1 | **The UNO brand repository URL.** The request gave it as `[GitHub repo URL]`, so no brand guidelines or assets were available | Everything in sections A and B below |
-
-## A. Brand values ([materials/brand/README.md](materials/brand/README.md))
-
-| # | Item | Where it's used |
-| --- | --- | --- |
-| 2 | Primary color (`brand-primary`) | Title slide, section dividers, syllabus headings |
-| 3 | Secondary or accent color (`brand-secondary`) | YOUR TURN banners |
-| 4 | Text colors on primary and light backgrounds | All branded layouts |
-| 5 | Standard background color | YOUR TURN slides, syllabus |
-| 6 | Heading font and fallback | All branded layouts |
-| 7 | Body font and fallback | All branded layouts |
-| 8 | Full-color logo file | YOUR TURN slides (if used), syllabus |
-| 9 | Reversed logo file for dark backgrounds | Title slide, section dividers |
-| 10 | Logo placement on title, divider, content slides, and print | All branded layouts |
-| 11 | Logo clear-space rule | All branded layouts |
-| 12 | Minimum logo size | All branded layouts |
-| 13 | Official UNO slide template, if one exists | Would replace the layout descriptions in the brand spec |
-| 14 | Official document or letterhead template | Syllabus |
-| 15 | Required wordmark, department lockup, or co-branding | Title slide, syllabus |
-| 16 | Brand guidance on print body size | Syllabus (set to 11 pt minimum for now) |
-
-## B. Checks that can only run once A is filled
-
-| # | Item |
-| --- | --- |
-| 17 | Contrast of every text and background pair, at least 4.5:1, especially text on `brand-primary` and on the YOUR TURN banner |
-| 18 | Syllabus fits on two printed pages in the brand fonts |
+| 18 | Syllabus fits on two printed pages in the brand fonts | Needs a print test in URW Grotesk, which is licensed to UNO employees |
 
 ## C. Course details
 

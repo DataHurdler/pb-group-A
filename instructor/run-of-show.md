@@ -14,7 +14,7 @@ The one page to have open on the day.
 | 1:00 | **4 Checking outputs** | Stand-up poll. Demo: check a source. Ex 7, bake-off build + judging | Calls at 10 and 3 min left in bake-off |
 | 2:00 | **5 Responsible use** | Demo: redact, don't run the risky version. Ex 9, Ex 10 | Ex 10's own-prompt check is the point |
 | 2:45 | Break | Help anyone without a capstone task | **10+ min behind? Use the cut list** |
-| 3:00 | **6 Capstone** | Demo your own capstone. Ex 11 build, Ex 12 at tables | Calls at 12 and 4 min left in Ex 11 |
+| 3:00 | **6 Capstone** | Demo your own capstone. Ex 11 build, Ex 12 at tables | Calls at 10 and 3 min left in Ex 11 |
 | 4:00 | **Closing** | Hall of fame (3), recap, feedback form, next steps | Feedback filled in before anyone leaves |
 | 4:30 | End | Stay for questions | |
 
