@@ -16,6 +16,8 @@ Starts with energy after lunch: warm-up poll, short concept, then the bake-off.
 > Module 4
 > Checking AI outputs: hallucinations, bias, verification
 
+**Layout:** Section divider ([brand spec](../brand/README.md), 3.2). `logo-reversed`, alt text "University of Nebraska Omaha".
+
 **Notes (under 1 min).**
 - Transition: "This morning you got better outputs. This afternoon: how do you know a good-looking output is actually right?"
 - *Tip:* stand up and move around for this one. Post-lunch energy is low.
@@ -127,6 +129,8 @@ Starts with energy after lunch: warm-up poll, short concept, then the bake-off.
 > YOUR TURN · ⏱ 8 MIN · Pairs
 > This AI summary has three problems. Find them.
 
+**Layout:** YOUR TURN ([brand spec](../brand/README.md), 3.3). Banner in `brand-secondary`; timer is the largest text; body 24 pt minimum. Logo, if used: alt text "University of Nebraska Omaha".
+
 **Exercise 7 — Spot the problems**
 
 | | |
@@ -166,6 +170,8 @@ point: phone support satisfaction fell.
 > 🏆 PROMPT BAKE-OFF · ⏱ 15 MIN · Groups of 4–5
 > Same task for every group. Best output wins.
 
+**Layout:** YOUR TURN ([brand spec](../brand/README.md), 3.3). Banner in `brand-secondary`; timer is the largest text; body 24 pt minimum. Logo, if used: alt text "University of Nebraska Omaha".
+
 **Exercise 8 — Prompt bake-off (part 1: build)**
 
 | | |
@@ -201,6 +207,8 @@ Complete · Fair and inclusive · Fit for purpose (would you post it as is?).
 **On slide:**
 > Judging · ⏱ 8 MIN
 > Read each output. Score it 1–5 on the four questions.
+
+**Layout:** YOUR TURN ([brand spec](../brand/README.md), 3.3). Banner in `brand-secondary`; timer is the largest text; body 24 pt minimum. Logo, if used: alt text "University of Nebraska Omaha".
 
 **Exercise 8 — Prompt bake-off (part 2: judge)**
 

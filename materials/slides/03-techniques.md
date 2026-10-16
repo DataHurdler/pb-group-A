@@ -14,6 +14,8 @@ step-by-step work, and refining with follow-up messages.
 > Module 3
 > Three techniques: examples, step-by-step, iteration
 
+**Layout:** Section divider ([brand spec](../brand/README.md), 3.2). `logo-reversed`, alt text "University of Nebraska Omaha".
+
 **Notes (under 1 min).**
 - Transition: "The five parts give you a solid first draft. These three techniques get you from solid to *exactly what I wanted*."
 
@@ -138,6 +140,8 @@ step-by-step work, and refining with follow-up messages.
 > YOUR TURN · ⏱ 10 MIN · Pairs
 > Run it without examples, then with two examples. Compare.
 
+**Layout:** YOUR TURN ([brand spec](../brand/README.md), 3.3). Banner in `brand-secondary`; timer is the largest text; body 24 pt minimum. Logo, if used: alt text "University of Nebraska Omaha".
+
 **Exercise 5 — Show, don't tell**
 
 | | |
@@ -175,6 +179,8 @@ step-by-step work, and refining with follow-up messages.
 **On slide:**
 > YOUR TURN · ⏱ 18 MIN · Solo
 > Take your Module 2 prompt. Improve it in three rounds. Log each change.
+
+**Layout:** YOUR TURN ([brand spec](../brand/README.md), 3.3). Banner in `brand-secondary`; timer is the largest text; body 24 pt minimum. Logo, if used: alt text "University of Nebraska Omaha".
 
 **Exercise 6 — Three rounds of iteration**
 

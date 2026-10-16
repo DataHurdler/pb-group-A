@@ -19,6 +19,7 @@ Work back from the course date. [TODO: date]
 
 ## Day before
 
+- [ ] Printed, one per learner, for check-in: [syllabus](../materials/handouts/syllabus.md) (two pages, branded)
 - [ ] Printed, one per learner: [student handout](../materials/handouts/student-handout.md), [agenda](../participants/agenda.md), [action plan](../participants/action-plan.md)
 - [ ] Printed, one set per pair: Exercise 1 task cards (cut up), Exercise 7 source text and summary
 - [ ] Printed, one per table: bake-off brief (Exercise 8), traffic-light scenarios (Exercise 9)

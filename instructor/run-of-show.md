@@ -4,7 +4,7 @@ The one page to have open on the day.
 
 | Time | Block | Your move | Clock check |
 | --- | --- | --- | --- |
-| 8:00 | Doors | Slide 1 up, Wi-Fi on the board, handouts and agendas on tables | |
+| 8:00 | Doors | Slide 1 up, Wi-Fi on the board, syllabus handed out at check-in, handouts and agendas on tables | |
 | 8:30 | **Opening** | Start on time. Feelings poll, parking lot, ground rules, tool check | Every laptop working by 8:45 |
 | 8:45 | **1 How AI tools work** | Demo: two runs + invented report. Ex 1 cards, Ex 2 | Ex 1 can become a whole-room vote |
 | 9:45 | **2 Anatomy of a prompt** | Demo: build "Write an email." part by part. Ex 3, Ex 4 | Everyone has a draft-1 prompt saved |

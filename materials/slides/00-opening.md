@@ -12,6 +12,8 @@ every laptop has a working AI tool before Module 1.
 > Getting useful results from AI tools
 > [Date] · [Instructor name]
 
+**Layout:** Title ([brand spec](../brand/README.md), 3.1). `logo-reversed`, alt text "University of Nebraska Omaha". Colors, fonts, and logo placement: NEEDS CONFIRMATION.
+
 **Notes (1 min, during arrival).**
 - Have this up as people arrive, with Wi-Fi details beside it.
 - Greet people individually at the door. Ask which AI tool they plan to use today.

@@ -14,6 +14,8 @@ context, task, format, constraints) and turn a vague prompt into a clear one.
 > Module 2
 > Anatomy of a good prompt
 
+**Layout:** Section divider ([brand spec](../brand/README.md), 3.2). `logo-reversed`, alt text "University of Nebraska Omaha".
+
 **Notes (under 1 min).**
 - Transition: "We saw it works best when you give it the facts. Now: what exactly should you give it?"
 
@@ -175,6 +177,8 @@ context, task, format, constraints) and turn a vague prompt into a clear one.
 > Bad prompt → better prompt
 > Use at least three of the five parts.
 
+**Layout:** YOUR TURN ([brand spec](../brand/README.md), 3.3). Banner in `brand-secondary`; timer is the largest text; body 24 pt minimum. Logo, if used: alt text "University of Nebraska Omaha".
+
 **Exercise 3 — Fix-it: bad prompt vs. better prompt**
 
 | | |
@@ -213,6 +217,8 @@ context, task, format, constraints) and turn a vague prompt into a clear one.
 **On slide:**
 > YOUR TURN · ⏱ 15 MIN · Solo
 > Pick a real work task. Write a five-part prompt. Run it.
+
+**Layout:** YOUR TURN ([brand spec](../brand/README.md), 3.3). Banner in `brand-secondary`; timer is the largest text; body 24 pt minimum. Logo, if used: alt text "University of Nebraska Omaha".
 
 **Exercise 4 — Your own task, draft 1**
 

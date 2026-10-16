@@ -18,6 +18,8 @@ differ; the point is to know the questions to ask.
 > Module 5
 > Using AI responsibly: privacy, confidentiality, workplace rules
 
+**Layout:** Section divider ([brand spec](../brand/README.md), 3.2). `logo-reversed`, alt text "University of Nebraska Omaha".
+
 **Notes (under 1 min).**
 - Transition: "This is the module that keeps you out of trouble. It's short, but it matters."
 - *Tip:* keep the tone practical, not scary. The goal is confident, careful use, not fear.
@@ -130,6 +132,8 @@ differ; the point is to know the questions to ask.
 > YOUR TURN · ⏱ 10 MIN · Small groups
 > Eight scenarios. Green, yellow, or red?
 
+**Layout:** YOUR TURN ([brand spec](../brand/README.md), 3.3). Banner in `brand-secondary`; timer is the largest text; body 24 pt minimum. Logo, if used: alt text "University of Nebraska Omaha".
+
 **Exercise 9 — Traffic light**
 
 | | |
@@ -166,6 +170,8 @@ make sure nothing identifies anyone). 🔴 4 (redact first, then it becomes 🟡
 **On slide:**
 > YOUR TURN · ⏱ 8 MIN · Pairs
 > Remove every sensitive detail. Keep the prompt useful.
+
+**Layout:** YOUR TURN ([brand spec](../brand/README.md), 3.3). Banner in `brand-secondary`; timer is the largest text; body 24 pt minimum. Logo, if used: alt text "University of Nebraska Omaha".
 
 **Exercise 10 — Clean this prompt**
 

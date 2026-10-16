@@ -23,6 +23,10 @@ Student handout: [../handouts/student-handout.md](../handouts/student-handout.md
   the title, one idea per slide.
 - **Notes:** timing, talking points, common student mistakes (*Common
   mistake* or *Watch for*), and facilitation tips (*Tip*).
+- **Layout:** on the title slide, section dividers, and YOUR TURN slides,
+  which UNO-branded layout to use and the logo's alt text. Layouts and
+  accessibility rules are in [../brand/README.md](../brand/README.md); brand
+  values are NEEDS CONFIRMATION.
 - **Exercise slides** start with `YOUR TURN · ⏱ N MIN` and a working format.
   The full exercise (task, time, format, template or starter prompt, and
   suggested answers marked *instructor only*) follows the slide.

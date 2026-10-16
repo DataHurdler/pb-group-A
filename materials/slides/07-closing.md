@@ -38,6 +38,8 @@ home with a plan for the next week.
 > Two minutes, please: [feedback link / QR code]
 > What worked? What should change?
 
+**Image:** feedback QR code, alt text "QR code linking to the end-of-day feedback form". Print the link beside it for anyone who can't scan.
+
 **Notes (7 min).**
 - Give time in the room to fill in the feedback form. Response rates drop sharply once people leave.
 - Suggested questions: rate the day 1–5; most useful part; what to change; confidence before vs. after; would you recommend it?

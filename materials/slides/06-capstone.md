@@ -18,6 +18,8 @@ room in the closing.
 > Module 6 · Capstone
 > Your task. Your prompt. Everything from today.
 
+**Layout:** Section divider ([brand spec](../brand/README.md), 3.2). `logo-reversed`, alt text "University of Nebraska Omaha".
+
 **Notes (under 1 min).**
 - Transition: "This is what the whole day was for."
 - *Tip:* say plainly that nobody's capstone needs to be perfect. It needs to be useful to them.
@@ -76,6 +78,8 @@ room in the closing.
 > YOUR TURN · ⏱ 22 MIN · Solo
 > Build your final prompt. Tick every box on the checklist.
 
+**Layout:** YOUR TURN ([brand spec](../brand/README.md), 3.3). Banner in `brand-secondary`; timer is the largest text; body 24 pt minimum. Logo, if used: alt text "University of Nebraska Omaha".
+
 **Exercise 11 — Capstone build**
 
 | | |
@@ -113,6 +117,8 @@ most.
 **On slide:**
 > YOUR TURN · ⏱ 15 MIN · Table groups
 > 3 minutes each. Listeners: one strength, one suggestion.
+
+**Layout:** YOUR TURN ([brand spec](../brand/README.md), 3.3). Banner in `brand-secondary`; timer is the largest text; body 24 pt minimum. Logo, if used: alt text "University of Nebraska Omaha".
 
 **Exercise 12 — Table presentations**
 

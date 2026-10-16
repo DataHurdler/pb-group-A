@@ -13,10 +13,13 @@ their own job.
 
 | If you want… | Open |
 | --- | --- |
+| The syllabus handed out at check-in | [materials/handouts/syllabus.md](materials/handouts/syllabus.md) |
 | The timed agenda for the day | [schedule.md](schedule.md) |
 | The slide deck, with speaker notes and exercises | [materials/slides/](materials/slides/README.md) |
 | The one-page student handout | [materials/handouts/student-handout.md](materials/handouts/student-handout.md) |
 | Audience, outcomes, and what's still to decide | [COURSE-BRIEF.md](COURSE-BRIEF.md) |
+| UNO branding and accessibility rules | [materials/brand/README.md](materials/brand/README.md) |
+| Everything still to be confirmed | [NEEDS-CONFIRMATION.md](NEEDS-CONFIRMATION.md) |
 | The one page to have open on the day | [instructor/run-of-show.md](instructor/run-of-show.md) |
 | What to do in the two weeks before | [instructor/prep-checklist.md](instructor/prep-checklist.md) |
 
@@ -45,10 +48,12 @@ share-out and questions.
 
 ```
 COURSE-BRIEF.md   Audience, outcomes, assumptions, open questions
+NEEDS-CONFIRMATION.md  Brand values and course details still missing
 schedule.md       Timed agenda, minute budget, cut list
 materials/
   slides/         88-slide deck in eight files, with notes and exercises
-  handouts/       One-page student handout
+  handouts/       Two-page syllabus and one-page student handout
+  brand/          UNO brand spec, layouts, and accessibility rules
   data/           (empty) any files exercises need
 instructor/       Prep checklist and day-of run sheet
 participants/     Pre-course email, printable agenda, action plan

@@ -14,6 +14,8 @@ an answer, and name tasks it does well and tasks it does badly.
 > Module 1
 > How AI tools work, and what they can and can't do
 
+**Layout:** Section divider ([brand spec](../brand/README.md), 3.2). `logo-reversed`, alt text "University of Nebraska Omaha".
+
 **Notes (under 1 min).**
 - Transition: "Before we write better requests, let's look at what's on the other end."
 - *Tip:* keep transitions short. The warm-up does the real opening.
@@ -141,6 +143,8 @@ an answer, and name tasks it does well and tasks it does badly.
 > YOUR TURN · ⏱ 10 MIN · Pairs
 > Sort 10 tasks: Great at it / Use with care / Can't do alone
 
+**Layout:** YOUR TURN ([brand spec](../brand/README.md), 3.3). Banner in `brand-secondary`; timer is the largest text; body 24 pt minimum. Logo, if used: alt text "University of Nebraska Omaha".
+
 **Exercise 1 — Can or can't?**
 
 | | |
@@ -182,6 +186,8 @@ on).
 **On slide:**
 > YOUR TURN · ⏱ 17 MIN · Pairs
 > Run three prompts. Note what worked, what was wrong, how you could tell.
+
+**Layout:** YOUR TURN ([brand spec](../brand/README.md), 3.3). Banner in `brand-secondary`; timer is the largest text; body 24 pt minimum. Logo, if used: alt text "University of Nebraska Omaha".
 
 **Exercise 2 — Test the limits**
 
